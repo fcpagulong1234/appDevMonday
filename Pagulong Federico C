@@ -1,0 +1,20 @@
+public class Activity1 {
+    public static void main(String[] args) {
+        System.out.println("List of Students:");
+    
+        // Collaborators: Add your names below using the format:
+        // System.out.println("Federico C Pagulong");
+    }
+}
+
+public class Activity1 {
+    public static void main(String[] args) {
+        System.out.println("List of Students:");
+     
+        // Collaborators: Add your names below using the format:
+        // System.out.println("Federico C Pagulong");
+    
+        System.out.println("Federico C Pagulong- BSIT 2C");
+        System.out.println("Federico C Pagulong- BSIT 2C");
+        System.out.println("Federico C Pagulong- BSIT 2C");
+    }
